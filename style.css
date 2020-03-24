@@ -1,0 +1,54 @@
+.container{
+    display: flex;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    font-size: 19px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.first-div{
+    width: 700px;
+}
+
+.second-div{
+    border-left: 1px gray solid;
+    padding-left: 25px;
+}
+
+img{
+    border: 1px  gray solid;
+    border-radius: 50%;
+    width: 250px;
+    margin-left: 150px;
+}
+
+#beagle-color{
+    color: blue;
+}
+
+
+
+p{
+    padding-right: 700px;
+    font-size: 19px;
+}
+
+#my-first-h {
+    padding-left: 20px;
+}
+
+#my-second-h {
+    padding-left: 39px;
+}
+
+#my-third-h {
+    padding-left: 34px;
+}
